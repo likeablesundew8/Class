@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="561adac9-1f1a-4823-8388-75be2c7637f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="my-jda-bot" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="my-jda-bot" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="my-jda-bot" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="my-jda-bot" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XByqmRAd8sJFk4uxbvg8yXvLi9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="shadowJar" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="my-jda-bot.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="my-jda-bot [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="my-jda-bot [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compileJava" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="my-jda-bot [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="my-jda-bot" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.my-jda-bot [build]" />
+        <item itemvalue="Gradle.my-jda-bot [compileJava]" />
+        <item itemvalue="Gradle.my-jda-bot" />
+        <item itemvalue="Gradle.my-jda-bot [jar]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="561adac9-1f1a-4823-8388-75be2c7637f0" name="Default Changelist" comment="" />
+      <created>1580533975486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580533975486</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="179" key="#Project_Structure" timestamp="1580534045846">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="179" key="#Project_Structure/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1580534045846" />
+    <state x="646" y="380" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1581045251723">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="646" y="380" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1581045251723" />
+    <state x="677" y="299" key="FileChooserDialogImpl" timestamp="1581045216874">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="677" y="299" key="FileChooserDialogImpl/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1581045216874" />
+    <state x="731" y="443" width="356" height="200" key="Github.CreateGistDialog" timestamp="1581045405848">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="731" y="443" width="356" height="200" key="Github.CreateGistDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1581045405848" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1581046864701">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580795866962" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1581046864701" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1581046864701">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580795866962" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1581046864701" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1581046864701">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580795866962" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1581046864701" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1581046864701">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580795866962" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1581046864701" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1580535621156">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1580535621156" />
+    <state x="981" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581044180015">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="-1184" y="345" key="com.intellij.ide.util.TipDialog/0.0.2560.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580944755713" />
+    <state x="981" y="345" key="com.intellij.ide.util.TipDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1581044180015" />
+    <state x="1108" y="242" width="672" height="677" key="run.anything.popup" timestamp="1580535629627">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1108" y="242" width="672" height="677" key="run.anything.popup/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1580535629627" />
+  </component>
+</project>
